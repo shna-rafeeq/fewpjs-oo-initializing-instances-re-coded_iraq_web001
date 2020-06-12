@@ -6,3 +6,4 @@ class Breakfast {
     this.drink = drink;
   }
 }
+ let bfast = new Breakfast('eggs', 'juice')
